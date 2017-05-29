@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Schools">
+        <item>SKH St. Matthew\'s Primary School</item>
+        <item>St. Paul\'s College Primary School</item>
+        <item>Catholic Mission School</item>
+        <item>King\'s College Old Boys\' Association Primary School No. 2</item>
+        <item>San Wui Commercial Society School</item>
+        <item>Central And Western District St. Anthony\'s School</item>
+        <item>Li Sing Primary School</item>
+        <item>Sacred Heart Canossian School</item>
+        <item>Sacred Heart Canossian School Private Section</item>
+        <item>St. Stephen\'s Girls\' Primary School</item>
+        <item>Chiu Sheung School, Hong Kong</item>
+        <item>King\'s College Old Boys\' Association Primary School</item>
+        <item>SKH Kei Yan Primary School</item>
+        <item>St. Charles School</item>
+        <item>SKH Lui Ming Choi Memorial Primary School</item>
+        <item>St. Louis School (Primary Section)</item>
+        <item>Kau Yan School</item>
+        <item>St. Anthony\'s School</item>
+        <item>Bonham Road Government Primary School</item>
+        <item>St. Clare\'s Primary School</item>
+        <item>Salesian School</item>
+        <item>CCC Kei Wan Primary School (Aldrich Bay)</item>
+        <item>SKH St. Michael\'s Primary School</item>
+        <item>North Point Methodist Primary School (A.M.)</item>
+        <item>North Point Methodist Primary School (P.M.)</item>
+        <item>Chinese Methodist School (North Point)</item>
+        <item>Buddhist Chung Wah Kornhill Primary School</item>
+        <item>The Endeavourers Leung Lee Sau Yu Memorial Primary School</item>
+        <item>Canossa School (Hong Kong)</item>
+        <item>Chinese Methodist School, Tanner Hill</item>
+        <item>Chan\'s Creative School (Hong Kong Island)</item>
+        <item>North Point Government Primary School</item>
+        <item>North Point Government Primary School (Cloudview Road)</item>
+        <item>Shanghai Alumni Primary School</item>
+        <item>Taikoo Primary School</item>
+        <item>Aldrich Bay Government Primary School</item>
+        <item>CCC Kei Wan Primary School</item>
+        <item>ELCHK Faith Love Lutheran School</item>
+        <item>Meng Tak Catholic School</item>
+        <item>Pui Kiu Primary School</item>
+        <item>SKH Chai Wan St. Michael\'s Primary School</item>
+        <item>Shau Kei Wan Government Primary School</item>
+        <item>Shaukiwan Tsung Tsin School</item>
+        <item>St. Mark\'s Primary School</item>
+        <item>The HKCWC Hioe Tjo Yoeng Primary School</item>
+        <item>The Salvation Army Ann Wyllie Memorial School</item>
+        <item>HKUGA Primary School</item>
+        <item>Kiangsu and Chekiang Primary School</item>
+        <item>The Salvation Army Centaline Charity Fund School</item>
+        <item>Hon Wah College (Primary Section)</item>
+        <item>Ching Chung Hau Po Woon Primary School</item>
+        <item>Bui O Public School</item>
+        <item>Tung Chung Catholic School</item>
+        <item>Holy Family School</item>
+        <item>Northern Lamma School</item>
+        <item>Cheung Chau Sacred Heart School</item>
+        <item>Kwok Man School</item>
+        <item>CCC Tai O Primary School</item>
+        <item>H.K.F.E.W. Wong Cho Bau School</item>
+        <item>Po On Commercial Association Wan Ho Kan Primary School</item>
+        <item>The Salvation Army Lam Butt Chung Memorial School</item>
+        <item>SKH Wei Lun Primary School</item>
+        <item>Ling Liang Church Sau Tak Primary School</item>
+        <item>CCC Cheung Chau Church Kam Kong Primary School</item>
+        <item>Ho Yu College and Primary School (Sponsored by Sik Sik Yuen)</item>
+        <item>Mui Wo School</item>
+        <item>Kowloon Tong Bishop Walsh Catholic School</item>
+        <item>Ling To Catholic Primary School</item>
+        <item>Ma Tau Chung Government Primary School</item>
+        <item>Oblate Primary School</item>
+        <item>St Rose of Lima\'s School</item>
+        <item>GCEPSA Whampoa Primary School</item>
+        <item>Diocesan Boys\' School Primary Division</item>
+        <item>Pui Ching Primary School</item>
+        <item>SKH Good Shepherd Primary School</item>
+        <item>Alliance Primary School, Whampoa</item>
+        <item>SKH Fung Kei Millennium Primary School</item>
+        <item>SKH Fung Kei Primary School</item>
+        <item>CCC Kei Wa Primary School (Kowloon Tong)</item>
+        <item>Holy Family Canossian School</item>
+        <item>Iu Shan School</item>
+        <item>La Salle Primary School</item>
+        <item>Maryknoll Convent School (Primary Section)</item>
+        <item>Alliance Primary School, Kowloon Tong</item>
+        <item>Kowloon True Light Middle School (Primary Section)</item>
+        <item>Pooi To Primary School</item>
+        <item>Diocesan Preparatory School</item>
+        <item>Chan Sui Ki (La Salle) Primary School</item>
+        <item>ELCHK Hung Hom Lutheran Primary School</item>
+        <item>Emmanuel Primary School, Kowloon</item>
+        <item>Farm Road Government Primary School</item>
+        <item>Heep Yunn Primary School</item>
+        <item>SKH Holy Carpenter Primary School</item>
+        <item>Hop Yat Church School</item>
+        <item>Ma Tau Chung Government Primary School (Hung Hom Bay)</item>
+        <item>Holy Family Canossian School (Kowloon Tong)</item>
+        <item>Munsang College Primary School</item>
+        <item>CCC Wanchai Church Kei To Primary School (Kowloon City)</item>
+        <item>Holy Angels Canossian School</item>
+        <item>SKH St. Timothy\'s Primary School</item>
+        <item>Kowloon Tong Government Primary School</item>
+        <item>Lok Sin Tong Primary School</item>
+        <item>Creative Primary School</item>
+        <item>First Assembly of God Primary School and Kindergarten</item>
+        <item>Holy Trinity Primary School</item>
+        <item>Kowloon Tong School (Primary Section)</item>
+        <item>St. Johannes College (Primary Section)</item>
+        <item>PLK Lam Man Chan English Primary School</item>
+        <item>Conservative Baptist Lui Ming Choi Primary School</item>
+        <item>HKTA Wun Tsuen School</item>
+        <item>Our Lady Of China Catholic Primary School</item>
+        <item>Carmel Leung Sing Tak School</item>
+        <item>Buddhist Chi King Primary School</item>
+        <item>The Mission Covenant Church Holm Glad Primary School</item>
+        <item>Jordan Valley St. Joseph\'s Catholic Primary School</item>
+        <item>Bishop Paschang Catholic School</item>
+        <item>Lam Tin Methodist Primary School</item>
+        <item>Kowloon Bay St. John The Baptist Catholic Primary School</item>
+        <item>Ping Shek Estate Catholic Primary School</item>
+        <item>SKH Kowloon Bay Kei Lok Primary School</item>
+        <item>SKH St. John\'s Primary School</item>
+        <item>CCC Kei Faat Primary School (Yau Tong)</item>
+        <item>HKTA YYI Chan Lui Chung Tak Memorial School</item>
+        <item>Lok Wah Catholic Primary School</item>
+        <item>Man Kiu Association Primary School</item>
+        <item>SKH Kei Lok Primary School</item>
+        <item>SKH Lee Shiu Keung Primary School</item>
+        <item>SKH Tak Tin Lee Shiu Keung Primary School</item>
+        <item>SKH Yautong Kei Hin Primary School</item>
+        <item>Sau Mau Ping Catholic Primary School</item>
+        <item>Sau Ming Primary School</item>
+        <item>St. Antonius Primary School</item>
+        <item>St. Edward\'s Catholic Primary School</item>
+        <item>St. Matthew\'s Lutheran School (Sau Mau Ping)</item>
+        <item>Kwun Tong Government Primary School (Sau Ming Road)</item>
+        <item>SKH Kei Hin Primary School</item>
+        <item>CCC Kei Faat Primary School</item>
+        <item>St. John The Baptist Catholic Primary School</item>
+        <item>Kwun Tong Government Primary School</item>
+        <item>St. Joseph\'s Anglo-Chinese Primary School</item>
+        <item>Lok Sin Tong Yeung Chung Ming Primary School</item>
+        <item>Fukien Secondary School Affiliated School</item>
+        <item>Buddhist Lam Bing Yim Memorial School</item>
+        <item>SKH Chu Yan Primary School</item>
+        <item>Cho Yiu Catholic Primary School</item>
+        <item>SKH Yan Laap Memorial Primary School</item>
+        <item>Buddhist Lim Kim Tian Memorial Primary School</item>
+        <item>CNEC Lui Ming Choi Primary School</item>
+        <item>Salesian Yip Hon Millennium Primary School</item>
+        <item>PLK Chan Yat Primary School</item>
+        <item>SKH Ho Chak Wan Primary School</item>
+        <item>SKH Tsing Yi Chu Yan Primary School</item>
+        <item>Tsing Yi Trade Association Primary School</item>
+        <item>Delia (Man Kiu) English Primary School</item>
+        <item>Shek Lei Catholic Primary School</item>
+        <item>SKH Chu Oi Primary School</item>
+        <item>Salesian Yip Hon Primary School</item>
+        <item>Shek Lei St. John\'s Catholic Primary School</item>
+        <item>Asbury Methodist Primary School</item>
+        <item>CCC Chuen Yuen Second Primary School</item>
+        <item>CNEC Ta Tung School</item>
+        <item>CCC Kei Chun Primary School</item>
+        <item>ELCHK Kwai Shing Lutheran Primary School</item>
+        <item>SRBCEPSA Lee Yat Ngok Memorial School</item>
+        <item>SKH Yan Laap Primary School</item>
+        <item>TWGHs Ko Ho Ning Memorial Primary School</item>
+        <item>Father Cucchiara Memorial School</item>
+        <item>PLK Castar Primary School</item>
+        <item>SKH Tsing Yi Estate Ho Chak Wan Primary School</item>
+        <item>TWGHs Chow Yin Sum Primary School</item>
+        <item>TWGHs Wong See Sum Primary School</item>
+        <item>Tsuen Wan Trade Association Primary School</item>
+        <item>Yan Chai Hospital Chiu Tsang Hok Wan Primary School</item>
+        <item>HHCKLA Buddhist Wisdom Primary School</item>
+        <item>Yuk Yin School</item>
+        <item>Pentecostal Gin Mao Sheng Primary School</item>
+        <item>SKH Ka Fuk Wing Chun Primary School</item>
+        <item>Fanling Government Primary School</item>
+        <item>Shek Wu Hui Public School</item>
+        <item>TWGHs Hong Kong and Kowloon Electrical Appliances Merchants Association Limited School</item>
+        <item>TWGHs Ma Kam Chan Memorial Primary School</item>
+        <item>Fanling Assembly of God Church Primary School</item>
+        <item>Fung Kai Liu Yun Sum Memorial School</item>
+        <item>Ta Ku Ling Ling Ying Public School</item>
+        <item>Fuk Tak Education Society Primary School</item>
+        <item>HHCKLA Buddhist Chan Shi Wan Primary School</item>
+        <item>Kam Tsin Village Ho Tung School</item>
+        <item>SKH Wing Chun Primary School</item>
+        <item>Tsang Mui Millennium School</item>
+        <item>Wai Chow Public School (Sheung Shui)</item>
+        <item>FSFTF Fong Shu Chuen Primary School</item>
+        <item>Sha Tau Kok Central Primary School</item>
+        <item>Pentecostal Yu Leung Fat Primary School</item>
+        <item>Fung Kai No.1 Primary School</item>
+        <item>Fung Kai Innovative School</item>
+        <item>Lee Chi Tat Memorial School</item>
+        <item>Tung Koon School (Sheung Shui)</item>
+        <item>Alliance Primary School, Sheung Shui</item>
+        <item>Fanling Public School</item>
+        <item>HHCKLA Buddhist Ching Kok Lin Association School</item>
+        <item>Pui Ling School Of The Precious Blood</item>
+        <item>Assembly of God Leung Sing Tak Primary School</item>
+        <item>PLK Luk Hing Too Primary School</item>
+        <item>Pok Oi Hospital Chan Kwok Wai Primary School</item>
+        <item>Yan Chai Hospital Chan Iu Seng Primary School</item>
+        <item>Yan Oi Tong Tin Ka Ping Primary School</item>
+        <item>Lok Sin Tong Lau Tak Primary School</item>
+        <item>Christian &amp; Missionary Alliance Sun Kei Primary School</item>
+        <item>Hong Kong And Macau Lutheran Church Ming Tao Primary School</item>
+        <item>King Lam Catholic Primary School</item>
+        <item>PLK Wong Wing Shu Primary School</item>
+        <item>SKH Tseung Kwan O Kei Tak Primary School</item>
+        <item>PLK Fung Ching Memorial Primary School</item>
+        <item>St. Andrew\'s Catholic Primary School</item>
+        <item>Shun Tak Fraternal Association Leung Kit Wah Primary School</item>
+        <item>Sai Kung Central Lee Siu Yam Memorial School</item>
+        <item>G.T. (Ellen Yeung) College</item>
+        <item>Tseung Kwan O Catholic Primary School</item>
+        <item>The Hong Kong Chinese Christian Churches Union Logos Academy</item>
+        <item>Chi Lin Buddhist Primary School</item>
+        <item>Sai Kung Sung Tsun Catholic School (Primary Section)</item>
+        <item>Tseung Kwan O Government Primary School</item>
+        <item>Tseung Kwan O Methodist Primary School</item>
+        <item>Evangel College</item>
+        <item>HHCKLA Buddhist Wong Cho Sum School</item>
+        <item>TWGHs Wong Yee Jar Jat Memorial Primary School</item>
+        <item>Hong Kong and Macau Lutheran Church Primary School</item>
+        <item>St. Peter\'s Catholic Primary School</item>
+        <item>Aplichau Kaifong Primary School</item>
+        <item>Precious Blood Primary School (South Horizons)</item>
+        <item>SKH Chi Fu Chi Nam Primary School</item>
+        <item>The Independent Schools Foundation Academy</item>
+        <item>St. Paul\'s Co-educational College Primary School</item>
+        <item>Hong Kong Southern District Government Primary School</item>
+        <item>Island Road Government Primary School</item>
+        <item>Precious Blood Primary School (Wah Fu Estate)</item>
+        <item>SKH Tin Wan Chi Nam Primary School</item>
+        <item>TWGHs Hok Shan School</item>
+        <item>St. Stephen\'s College Preparatory School</item>
+        <item>Victoria Shanghai Academy</item>
+        <item>Aberdeen St. Peter\'s Catholic Primary School</item>
+        <item>Pui Tak Canossian Primary School</item>
+        <item>St. Francis Of Assisi\'s English Primary School</item>
+        <item>Sham Shui Po Government Primary School</item>
+        <item>Pak Tin Catholic Primary School</item>
+        <item>SKH St. Clement\'s Primary School</item>
+        <item>Shamshuipo Kaifong Welfare Association Primary School</item>
+        <item>Fuk Wing Street Government Primary School</item>
+        <item>Alliance Primary School, Tai Hang Tung</item>
+        <item>The ELCHK Faith Lutheran School</item>
+        <item>HK Sze Yap C&amp;IA San Wui Commercial Society School</item>
+        <item>Maryknoll Fathers\' School (Primary Section)</item>
+        <item>St. Francis Of Assisi\'s Caritas School</item>
+        <item>Good Counsel Catholic Primary School</item>
+        <item>Hoi Ping Chamber Of Commerce Primary School</item>
+        <item>Ka Ling School Of The Precious Blood</item>
+        <item>Laichikok Catholic Primary School</item>
+        <item>Li Cheng Uk Government Primary School</item>
+        <item>SKH Kei Fook Primary School</item>
+        <item>SKH Kei Oi Primary School</item>
+        <item>SKH St. Andrew\'s Primary School</item>
+        <item>SKH St. Thomas\' Primary School</item>
+        <item>Ying Wa Primary School</item>
+        <item>Chan\'s Creative School</item>
+        <item>Delia English Primary School and Kindergarten</item>
+        <item>Kowloon Rhenish School</item>
+        <item>PLK Choi Kai Yau School</item>
+        <item>St. Margaret\'s Co-educational English Secondary and Primary School</item>
+        <item>Tak Nga Primary School</item>
+        <item>Tsung Tsin Primary School and Kindergarten</item>
+        <item>Tack Ching Primary School</item>
+        <item>Five Districts Business Welfare Association School</item>
+        <item>Lingnan University Alumni Association (Hong Kong) Primary School</item>
+        <item>CCC Heep Woh Primary School (Cheung Sha Wan)</item>
+        <item>PLK Dr. Jimmy Wong Chi-Ho ( Tin Sum Valley ) Primary School</item>
+        <item>CUHK FAA Thomas Cheung School</item>
+        <item>Carmel Alison Lam Primary School</item>
+        <item>Christian Alliance H.C. Chan Primary School</item>
+        <item>F.M.B. Chun Lei Primary School</item>
+        <item>Free Methodist Mei Lam Primary School</item>
+        <item>Shatin Government Primary School</item>
+        <item>TWGHs Sin Chu Wan Primary School</item>
+        <item>HKTA Shun Yeung Primary School</item>
+        <item>Kowloon City Baptist Church Hay Nien Primary School</item>
+        <item>ELCHK Ma On Shan Lutheran Primary School</item>
+        <item>Ma On Shan Methodist Primary School</item>
+        <item>Ma On Shan St. Joseph\'s Primary School</item>
+        <item>Ng Clan\'s Association Tai Pak Memorial School</item>
+        <item>PLK Chong Kee Ting Primary School</item>
+        <item>Christian Alliance Toi Shan H C Chan Primary School</item>
+        <item>Baptist Lui Ming Choi Primary School</item>
+        <item>Dr. Catherine F. Woo Memorial School</item>
+        <item>Sha Tin Wai Dr. Catherine F. Woo Memorial School</item>
+        <item>LKWFSL Wong Yiu Nam Primary School</item>
+        <item>Leung Kui Kau Lutheran Primary School</item>
+        <item>PLK Siu Hon Sum Primary School</item>
+        <item>PLK Chee Jing Yin Primary School</item>
+        <item>SKH Holy Spirit Primary School</item>
+        <item>Shatin Methodist Primary School</item>
+        <item>The Salvation Army Tin Ka Ping School</item>
+        <item>Wo Che Lutheran School</item>
+        <item>PLK Riverain Primary School</item>
+        <item>SKH Ma On Shan Holy Spirit Primary School</item>
+        <item>GCCITKD Cheong Wong Wai Primary School</item>
+        <item>Immaculate Heart Of Mary School</item>
+        <item>Kowloon City Baptist Church Hay Nien (Yan Ping) Primary School</item>
+        <item>Ma On Shan Ling Liang Primary School</item>
+        <item>Chi Hong Primary School</item>
+        <item>Shatin Tsung Tsin School</item>
+        <item>Stewards Pooi Kei Primary School</item>
+        <item>The Little Flower\'s Catholic Primary School</item>
+        <item>Baptist (STW) Lui Ming Choi Primary School</item>
+        <item>HKBU Affiliated School Wong Kam Fai Secondary and Primary School</item>
+        <item>Pui Kiu College</item>
+        <item>Taoist Ching Chung Primary School</item>
+        <item>Taoist Ching Chung Primary School (Wu King Estate)</item>
+        <item>Lok Sin Tong Leung Wong Wai Fong Memorial School</item>
+        <item>PLK Vicwood KT Chong No.2 Primary School</item>
+        <item>PLK HKTA Yuen Yuen Primary School</item>
+        <item>CCC Hoh Fuk Tong Primary School</item>
+        <item>CCC Mong Wong Far Yok Memorial Primary School</item>
+        <item>FDBWA Chow Chin Yau School</item>
+        <item>HKECA Wu Si Chong Memorial School</item>
+        <item>Hong Kong Red Swastika Society Tuen Mun Primary School</item>
+        <item>LKWFSL Lau Tak Yung Memorial Primary School</item>
+        <item>PLK Leung Chow Shun Kam Primary School</item>
+        <item>PLK Women’s Welfare Club (WD) Fung Lee Pui Yiu Primary School</item>
+        <item>PLK Horizon East Primary School</item>
+        <item>SRBCEPSA Ho Sau Ki School</item>
+        <item>Toi Shan Association Primary School</item>
+        <item>Tuen Mun Government Primary School</item>
+        <item>Yan Tak Catholic Primary School</item>
+        <item>AD &amp; FD POHL Mrs Cheng Yam On School</item>
+        <item>AD &amp; FD POHL Mrs Cheng Yam On Millennium School</item>
+        <item>Castle Peak Catholic Primary School</item>
+        <item>Hing Tak School</item>
+        <item>Islamic Primary School</item>
+        <item>Shun Tak Fraternal Association Ho Yat Tung Primary School</item>
+        <item>Shun Tak Fraternal Association Lee Kam Primary School</item>
+        <item>Shun Tak Fraternal Association Wu Siu Kui Memorial Primary School</item>
+        <item>Yan Chai Hospital Ho Sik Nam Primary School</item>
+        <item>Yan Oi Tong Madam Lau Wong Fat Primary School</item>
+        <item>Lutheran Tsang Shing Siu Leun School</item>
+        <item>PLK Fong Wong Kam Chuen Primary School</item>
+        <item>Yan Chai Hospital Law Chan Chor Si Primary School</item>
+        <item>Lui Cheung Kwong Lutheran Primary School</item>
+        <item>SKH Mung Yan Primary School</item>
+        <item>CCC But San Primary School</item>
+        <item>TWGHs Tang Shiu Kin Primary School</item>
+        <item>PLK Tin Ka Ping Millennium Primary School</item>
+        <item>Sung Tak Wong Kin Sheung Memorial School</item>
+        <item>Tai Po Old Market Public School</item>
+        <item>Tai Po Old Market Public School (Plover Cove)</item>
+        <item>The Education University of Hong Kong Jockey Club Primary School</item>
+        <item>Yan Chai Hospital Choi Hin To Primary School</item>
+        <item>HKTA Wun Tsuen Ng Lai Wo Memorial School</item>
+        <item>NTWJWAL Leung Sing Tak Primary School</item>
+        <item>PLK Tin Ka Ping Primary School</item>
+        <item>SKH Yuen Chen Maun Chen Primary School</item>
+        <item>SKH Yuen Chen Maun Chen Jubilee Primary School</item>
+        <item>Sacred Heart of Mary Catholic Primary School</item>
+        <item>Sam Shui Natives Association Huen King Wing School</item>
+        <item>Hong Kong and Kowloon Kaifong Women\'s Association Sun Fong Chung Primary School</item>
+        <item>Tai Po Government Primary School</item>
+        <item>Tai Po Baptist Public School</item>
+        <item>Tai Po Methodist School</item>
+        <item>Lam Tsuen Public Wong Fook Luen Memorial School</item>
+        <item>Hoi Pa Street Government Primary School</item>
+        <item>Hong Kong Baptist Convention Primary School</item>
+        <item>Si Yuan School of the Precious Blood</item>
+        <item>Tsuen Wan Chiu Chow Public School</item>
+        <item>CCC Chuen Yuen First Primary School</item>
+        <item>CCC Kei Wai Primary School</item>
+        <item>CCC Kei Wai Primary School (Ma Wan)</item>
+        <item>Sham Tseng Catholic Primary School</item>
+        <item>Chai Wan Kok Catholic Primary School</item>
+        <item>Emmanuel Primary School</item>
+        <item>HKTA YYI Shek Wai Kok Primary School</item>
+        <item>Holy Cross Lutheran School</item>
+        <item>Shak Chung Shan Memorial Catholic Primary School</item>
+        <item>Tsuen Wan Catholic Primary School</item>
+        <item>Tsuen Wan Government Primary School</item>
+        <item>Tsuen Wan Public Ho Chuen Yiu Memorial Primary School</item>
+        <item>Lei Muk Shue Catholic Primary School</item>
+        <item>Ho Shun Primary School (Sponsored by Sik Sik Yuen)</item>
+        <item>SKH Chu Oi Primary School (Lei Muk Shue)</item>
+        <item>Kwai Ming Wu Memorial School Of The Precious Blood</item>
+        <item>Mary Of Providence Primary School</item>
+        <item>Rosebud Primary School</item>
+        <item>Buddhist Wong Cheuk Um Primary School</item>
+        <item>Marymount Primary School</item>
+        <item>Raimondi College Primary Section</item>
+        <item>Sir Ellis Kadoorie (Sookunpo) Primary School</item>
+        <item>St. Francis\' Canossian School</item>
+        <item>St. Paul\'s Primary Catholic School</item>
+        <item>Li Sing Tai Hang School</item>
+        <item>Po Kok Primary School</item>
+        <item>PLK Gold &amp; Silver Exchange Society Pershing Tsang School</item>
+        <item>Pun U Association Wah Yan Primary School</item>
+        <item>SKH St. James\' Primary School</item>
+        <item>TWGHs Li Chi Ho Primary School</item>
+        <item>Rosaryhill School (Primary Section)</item>
+        <item>The True Light Middle School of Hong Kong (Primary Section)</item>
+        <item>Hennessy Road Government Primary School</item>
+        <item>Hennessy Road Government Primary School (Causeway Bay)</item>
+        <item>Precious Blood Primary School</item>
+        <item>St. Joseph\'s Primary School</item>
+        <item>St. Paul\'s Convent School (Primary Section)</item>
+        <item>Po Yan Oblate Primary School</item>
+        <item>Choi Wan St Joseph\'s Primary School</item>
+        <item>Ho Lap Primary School (Sponsored by Sik Sik Yuen)</item>
+        <item>Tsz Wan Shan St Bonaventure Catholic Primary School</item>
+        <item>Confucian Tai Shing Primary School</item>
+        <item>Baptist Rainbow Primary School</item>
+        <item>Bishop Ford Memorial School</item>
+        <item>Price Memorial Catholic Primary School</item>
+        <item>Wong Tai Sin Catholic Primary School</item>
+        <item>Wong Tai Sin Government Primary School</item>
+        <item>CCC Kei Wa Primary School</item>
+        <item>Canossa Primary School (San Po Kong)</item>
+        <item>Chun Tok School</item>
+        <item>St. Bonaventure Catholic Primary School</item>
+        <item>St. Patrick\'s Catholic Primary School (Po Kong Village Road)</item>
+        <item>CCC Kei Tsz Primary School</item>
+        <item>Tsz Wan Shan Catholic Primary School</item>
+        <item>Good Hope Primary School Cum Kindergarten (Primary Section)</item>
+        <item>SKH Yat Sau Primary School</item>
+        <item>Canossa Primary School</item>
+        <item>Ng Wah Catholic Primary School</item>
+        <item>PLK Stanley Ho Sau Nan Primary School</item>
+        <item>SKH Kei Tak Primary School</item>
+        <item>St. Patrick\'s School</item>
+        <item>Islamic Dharwood Pau Memorial Primary School</item>
+        <item>PLK Mrs Chan Nam Chong Memorial Primary School</item>
+        <item>PLK Grandmont Primary School</item>
+        <item>SKH Ching Shan Primary School</item>
+        <item>International Christian Quality Music Secondary and Primary School</item>
+        <item>Our Lady\'s Primary School</item>
+        <item>Bishop Walsh Primary School</item>
+        <item>Tun Yu School</item>
+        <item>Yuen Long Po Kok Primary School</item>
+        <item>YL Long Ping Estate Tung Koon Primary School</item>
+        <item>Tin Shui Wai Methodist Primary School</item>
+        <item>Kwong Ming School</item>
+        <item>Yuen Long Merchants Association Primary School</item>
+        <item>C &amp; MA Chui Chak Lam Memorial School</item>
+        <item>CCC Chun Kwong Primary School</item>
+        <item>Cumberland Presbyterian Church Yao Dao Primary School</item>
+        <item>Chinese YMCA Primary School</item>
+        <item>Chiu Yang Por Yen Primary School</item>
+        <item>Chiu Yang Primary School Of Hong Kong</item>
+        <item>HKFYG Lee Shau Kee Primary School</item>
+        <item>Ho Ming Primary School (Sponsored by Sik Sik Yuen)</item>
+        <item>Hong Kong Student Aid Society Primary School</item>
+        <item>Lions Clubs International Ho Tak Sum Primary School</item>
+        <item>Lok Sin Tong Leung Kau Kui Primary School</item>
+        <item>Queen Elizabeth School Old Students\' Association Branch Primary School</item>
+        <item>Queen Elizabeth School Old Students\' Association Primary School</item>
+        <item>SKH Tin Shui Wai Ling Oi Primary School</item>
+        <item>TWGHs Leo Tung-hai LEE Primary School</item>
+        <item>TWGHs Yiu Dak Chi Memorial Primary School</item>
+        <item>Tin Shui Wai Catholic Primary School</item>
+        <item>Tin Shui Wai Government Primary School</item>
+        <item>YLPMS Alumni Association Ying Yip Primary School</item>
+        <item>SKH Ling Oi Primary School</item>
+        <item>YLPMS Alumni Association Primary School</item>
+        <item>Buddhist Chan Wing Kan Memorial School</item>
+        <item>Chung Sing School</item>
+        <item>Pat Heung Central Primary School</item>
+        <item>SKH St. Joseph\'s Primary School</item>
+        <item>Tung Tak School</item>
+        <item>Yuen Long Government Primary School</item>
+        <item>W F Joseph Lee Primary School</item>
+        <item>Christian Alliance S.Y. Yeh Memorial Primary School</item>
+        <item>Shun Tak Fraternal Association Wu Mien Tuen Primary School</item>
+        <item>Shap Pat Heung Rural Committee Kung Yik She Primary School</item>
+        <item>Xianggang Putonghua Yanxishe Primary School of Science and Creativity</item>
+        <item>Kwong Ming Ying Loi School</item>
+        <item>Lok Sin Tong Leung Kau Kui Primary School (Branch)</item>
+        <item>AD&amp;FD POHL Leung Sing Tak School</item>
+        <item>YL Long Ping Estate Wai Chow School</item>
+        <item>Buddhist Wing Yan School</item>
+        <item>HKMLC Wong Chan Sook Ying Memorial School</item>
+        <item>Kam Tin Mung Yeung Public School</item>
+        <item>Gigamind English Primary School</item>
+        <item>South Yuen Long Government Primary School</item>
+        <item>ELCHK Lutheran Academy</item>
+        <item>Methodist School</item>
+        <item>Canton Road Government Primary School</item>
+        <item>Tai Kok Tsui Catholic Primary School (Hoi Fan Road)</item>
+        <item>CCC Wanchai Church Kei To Primary School</item>
+        <item>Jordan Road Government Primary School</item>
+        <item>St. Mary\'s Canossian School</item>
+        <item>TWGHs Lo Yu Chik Primary School</item>
+        <item>Tak Sun School</item>
+        <item>Tung Koon District Society Fong Shu Chuen School</item>
+        <item>Yaumati Catholic Primary School</item>
+        <item>Yaumati Catholic Primary School (Hoi Wang Road)</item>
+        <item>Yaumati Kaifong Association School</item>
+        <item>CCC Heep Woh Primary School</item>
+        <item>CCC Kei Tsun Primary School</item>
+        <item>Fresh Fish Traders\' School</item>
+        <item>SKH Kei Wing Primary School</item>
+        <item>Tai Kok Tsui Catholic Primary School</item>
+        <item>Tong Mei Road Government Primary School</item>
+        <item>Sharon Lutheran School</item>
+        <item>Diocesan Girls\' Junior School</item>
+        <item>PLK Camões Tan Siu Lin Primary School</item>
+        <item>Kowloon Women\'s Welfare Club Li Ping Memorial School</item>
+        <item>St. Eugene de Mazenod Oblate Primary School</item>
+        <item>Discovery College</item>
+        <item>Renaissance College Hong Kong</item>
+        <item>San Wui Commercial Society YMCA of Hong Kong Christian School</item>
+        <item>SKH St. Peter\'s Primary School</item>
+        <item>Christian and Missionary Alliance Sun Kei Primary School (Ping Shek)</item>
+        <item>The Mission Covenant Church Holm Glad No. 2 Primary School</item>
+        <item>SKH Holy Cross Primary School</item>
+        <item>RTC GAIA School</item>
+        <item>CCC Fong Yun Wah Primary School</item>
+        <item>St. Hilary\'s Primary School</item>
+        <item>Forest House Waldorf School</item>
+        <item>Hong Kong Adventist Academy</item>
+        <item>KLT Funful English Primary School</item>
+        <item>Island Christian Academy</item>
+    </string-array>
+</resources>
