@@ -28,7 +28,7 @@
     <string name="Label.EmptyState">You haven\'t created any schools yet. Tap the plus button to create one.</string>
 
     <!-- Hints -->
-    <string name="Hint.Name">Name for the geofence</string>
+    <string name="Hint.Name">Name of the school</string>
     <string name="Hint.Latitude" formatted="false">Latitude (%3.1f\u00B0 to %3.1f\u00B0)</string>
     <string name="Hint.Longitude" formatted="false">Longitude (%4.1f\u00B0 to %4.1f\u00B0) </string>
     <string name="Hint.Radius" formatted="false">Radius (%3.2f to %3.1f km)</string>
@@ -46,7 +46,11 @@
     <string name="Notification.Text.Exit">You leave %1$s and the sms is sent.</string>
 
     <!-- Toast -->
-    <string name="Toast.Validation">Please enter valid data for all fields</string>
+    <string name="Toast.emptyValidation">Please enter school name and phone number</string>
+    <string name="Toast.nameemptyValidation">Please enter school name</string>
+    <string name="Toast.nameValidation">Please enter valid school name</string>
+    <string name="Toast.phoneemptyValidation">Please enter phone number</string>
+    <string name="Toast.phoneValidation">Please enter valid phone number</string>
     <string name="Toast.Error">There was an error. Please try again.</string>
 
 </resources>

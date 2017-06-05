@@ -63,7 +63,6 @@ public class NoticeSMSIntentService extends IntentService {
                     if (transition == Geofence.GEOFENCE_TRANSITION_ENTER || transition == Geofence.GEOFENCE_TRANSITION_DWELL) {
                         onEnteredGeofences(geofenceIds);
                     }
-                    // added onExitGeofences
                     if (transition == Geofence.GEOFENCE_TRANSITION_EXIT) {
                         onExitGeofences(geofenceIds);
                     }
@@ -79,7 +78,6 @@ public class NoticeSMSIntentService extends IntentService {
     private void onEnteredGeofences(List<String> geofenceIds) {
         for (String geofenceId : geofenceIds) {
             String geofenceName = "";
-            //SMS
             String phoneNumber = "";
 
             // Loop over all geofence keys in prefs and retrieve NamedGeofence from SharedPreference
@@ -95,8 +93,6 @@ public class NoticeSMSIntentService extends IntentService {
                 }
             }
 
-            // Set the notification text and send the notification
-            //String contextText = String.format(this.getResources().getString(R.string.Notification_Text), geofenceName);
             String contextText = String.format(this.getResources().getString(R.string.Notification_Text_Enter), geofenceName);
 
             NotificationManager notificationManager = (NotificationManager) this.getSystemService(Context.NOTIFICATION_SERVICE);
@@ -116,8 +112,8 @@ public class NoticeSMSIntentService extends IntentService {
             notificationManager.notify(0, notification);
 
             //SMS
-            //SmsManager enterSmsManager = SmsManager.getDefault();
-           // enterSmsManager.sendTextMessage("+852"+phoneNumber ,null, "I arrived " + geofenceName, null, null);
+            SmsManager enterSmsManager = SmsManager.getDefault();
+            enterSmsManager.sendTextMessage("+852"+phoneNumber ,null, "I arrived " + geofenceName, null, null);
 
         }
     }

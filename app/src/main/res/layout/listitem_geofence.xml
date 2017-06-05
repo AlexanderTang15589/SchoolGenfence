@@ -22,7 +22,7 @@
             android:layout_height="wrap_content"
             android:padding="@dimen/Margin.Standard"
             style="@style/TextView.Header"
-            tools:text="Geofence Name"/>
+            tools:text="School Name"/>
 
         <View style="@style/Divider.Horizontal"/>
 

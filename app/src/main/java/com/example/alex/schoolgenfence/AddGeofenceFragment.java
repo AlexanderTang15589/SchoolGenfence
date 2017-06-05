@@ -190,18 +190,41 @@ public class AddGeofenceFragment extends DialogFragment{
             validData = false;
             String schoolname = getViewHolder().nameEditText.getText().toString();
             String[] nameList = getResources().getStringArray(R.array.Schools);
-            for (int i = 0; i<=523; i++) {
+            for (int i = 0; i <= 523; i++) {
                 if (nameList[i].equals(schoolname)) {
                     validData = true;
                 }
             }
+        }
+        if(phone.length() != 8) {
+            validData = false;
         }
 
         return validData;
     }
 
     private void showValidationErrorToast() {
-        Toast.makeText(getActivity(), getActivity().getString(R.string.Toast_Validation), Toast.LENGTH_SHORT).show();
+        String name = getViewHolder().nameEditText.getText().toString();
+        String phone = getViewHolder().phoneNoEditText.getText().toString();
+        String[] nameList = getResources().getStringArray(R.array.Schools);
+
+        if(TextUtils.isEmpty(name) && TextUtils.isEmpty(phone)) {
+            Toast.makeText(getActivity(), getActivity().getString(R.string.Toast_emptyValidation), Toast.LENGTH_SHORT).show();
+        } else if(TextUtils.isEmpty(name)) {
+            Toast.makeText(getActivity(), getActivity().getString(R.string.Toast_nameemptyValidation), Toast.LENGTH_SHORT).show();
+        } else if(TextUtils.isEmpty(phone)) {
+            Toast.makeText(getActivity(), getActivity().getString(R.string.Toast_phoneemptyValidation), Toast.LENGTH_SHORT).show();
+        }
+
+        if(phone.length() != 8) {
+            Toast.makeText(getActivity(), getActivity().getString(R.string.Toast_phoneValidation), Toast.LENGTH_SHORT).show();
+        }
+
+        if (TextUtils.isEmpty(name)){
+
+        } else {
+            Toast.makeText(getActivity(), getActivity().getString(R.string.Toast_nameValidation), Toast.LENGTH_SHORT).show();
+        }
     }
 
     // endregion
