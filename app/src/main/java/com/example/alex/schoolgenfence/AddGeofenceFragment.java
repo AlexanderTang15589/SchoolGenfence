@@ -68,61 +68,10 @@ public class AddGeofenceFragment extends DialogFragment{
         viewHolder = new ViewHolder();
         viewHolder.populate(view);
 
-        /*//Json
-        try {
-            JSONObject jsonObject = new JSONObject(loadJsonFromAsset());
-            JSONArray jsonArray = jsonObject.getJSONArray("Schools");
-            ArrayList<HashMap<String, String>> formList = new ArrayList<HashMap<String, String>>();
-            HashMap<String, String> m_li;
-
-            for (int i = 0; i < jsonArray.length(); i++){
-                JSONObject jo_inside = jsonArray.getJSONObject(i);
-                String name_value = jo_inside.getString("name");
-                //String address_value = jo_inside.getString("address");
-                //String lat_value = jo_inside.getDouble("lat");
-
-                //Add the values in the ArrayList
-                m_li = new HashMap<String, String>();
-                m_li.put("name", name_value);
-
-                formList.add(m_li);
-            }
-
-        } catch (JSONException e) {
-            e.printStackTrace();
-        }
-     */
         //autocompletetextview
         final String[] schoolNameList = getResources().getStringArray(R.array.Schools);               //total 524 schools array end 523
         ArrayAdapter<String> schoolnameadapter = new ArrayAdapter<String>(getActivity(),android.R.layout.simple_spinner_dropdown_item,schoolNameList);
         getViewHolder().nameEditText.setAdapter(schoolnameadapter);
-        //autocompletetextview
-
-        /*getViewHolder().nameEditText.addTextChangedListener(new TextWatcher() {
-            @Override
-            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
-
-            }
-
-            @Override
-            public void onTextChanged(CharSequence s, int start, int before, int count) {
-
-            }
-
-            @Override
-            public void afterTextChanged(Editable s) {
-                int j = 0;
-
-                for (int i=0; i<=523; i++){
-                    if (selectedSchoolName == schoolNameList[i]) {
-                        j = i;
-                        getViewHolder().latitudeEditText.setText(latList[0]);
-                    }
-                }
-                //getViewHolder().latitudeEditText.setText(latList[j]);
-            }
-        });*/
-
         AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
         builder.setView(view)
                 .setPositiveButton(R.string.Add, null)
@@ -305,41 +254,6 @@ public class AddGeofenceFragment extends DialogFragment{
 
         radius = radiusList[j];
         return radius;
-    }
-
-    /*private String matchingaddress() {
-        int j = 0;
-        String lng;
-        String[] lngList = getResources().getStringArray(R.array.address);
-        String[] nameList = getResources().getStringArray(R.array.Schools);
-        String name = getViewHolder().nameEditText.getText().toString();
-
-        for (int i=0; i<=523; i++) {
-            if(nameList[i].equals(name)) {
-                j = i;
-            }
-        }
-
-        lng = lngList[j];
-        return lng;
-    }*/
-
-
-
-    public String loadJsonFromAsset() {
-        String json = null;
-        try {
-            InputStream inputStream = getActivity().getAssets().open("schools.json");
-            int size = inputStream.available();
-            byte[] buffer = new byte[size];
-            inputStream.read(buffer);
-            inputStream.close();
-            json = new String(buffer, "UTF-8");
-        } catch (IOException ex) {
-            ex.printStackTrace();
-            return null;
-        }
-        return json;
     }
 
 }
